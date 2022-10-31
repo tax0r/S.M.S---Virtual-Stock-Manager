@@ -17,6 +17,11 @@ A brief description of what this project does and who it's for
 - [@tax0r](https://github.com/tax0r)
 
 
+## Requirements
+
+- yfinance
+
+
 ## Screenshots
 
 ![App Screenshot](https://i.imgur.com/9En2P9w.png)
