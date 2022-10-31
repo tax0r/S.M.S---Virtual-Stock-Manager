@@ -1,0 +1,11 @@
+{
+    "stocks": [
+        {
+            "ticker": "amzn",
+            "amount": "115",
+            "datePurchased": "2022-10-30",
+            "worthAtPurchase": "101.94",
+            "availableShares": "10187599852"
+        }
+    ]
+}

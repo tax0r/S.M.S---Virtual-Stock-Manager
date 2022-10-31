@@ -1,0 +1,9 @@
+------------------------------------------------------------------
+- info [ticker]: shows you important information about your ticker.
+/                                /                               /
+- buy [ticker] [amount]: buys a certain amount of shares 
+                         of your specified ticker & adds them to
+                         your portfolio.
+/                                /                               /
+- portfolio [anything]: shows your portfolio.
+------------------------------------------------------------------
