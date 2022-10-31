@@ -80,6 +80,8 @@ def executeCmdOne(cmd, arg):
         print("\n" + prefix + "- - - - - - - - - - - - - - - - - - - - - - - - - -")
         print(prefix + "shares that are available to purchase | ", "{:,}".format(ticker.info["sharesOutstanding"]))
         print(prefix + "country of residence | ", ticker.info["country"])
+        print("\n" + prefix + "- - - - - - - - - - - - - - - - - - - - - - - - - -")
+        print(ticker.info["longBusinessSummary"])
     if cmd == "portfolio":
         for i in getPortfolio():
             if int(i.split(" ")[1]) is not 0:
