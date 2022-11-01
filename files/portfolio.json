@@ -1,0 +1,46 @@
+{
+    "stocks": [
+        {
+            "ticker": "AMZN",
+            "amount": "128",
+            "datePurchased": "2022-10-30",
+            "worthAtPurchase": "101.62",
+            "availableShares": "10187599852"
+        },
+        {
+            "ticker": "META",
+            "amount": "20",
+            "datePurchased": "2022-10-31",
+            "worthAtPurchase": "94.69",
+            "availableShares": "2248669932"
+        },
+        {
+            "ticker": "EBAC",
+            "amount": "423",
+            "datePurchased": "2022-10-31",
+            "worthAtPurchase": "9.98",
+            "availableShares": "13209480"
+        },
+        {
+            "ticker": "APAM",
+            "amount": "1403",
+            "datePurchased": "2022-10-31",
+            "worthAtPurchase": "29.08",
+            "availableShares": "65215897"
+        },
+        {
+            "ticker": "CSR",
+            "amount": "12",
+            "datePurchased": "2022-10-31",
+            "worthAtPurchase": "69.15",
+            "availableShares": "14280488"
+        },
+        {
+            "ticker": "BMMJ",
+            "amount": "52069",
+            "datePurchased": "2022-11-01",
+            "worthAtPurchase": "0.11",
+            "availableShares": "110578931"
+        }
+    ]
+}

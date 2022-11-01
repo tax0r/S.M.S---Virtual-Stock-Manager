@@ -1,0 +1,17 @@
+------------------------------------------------------------------
+- info [ticker]: shows you important information about your ticker.
+/                                /                               /
+- buy [ticker] [amount]: buys a certain amount of shares 
+                         of your specified ticker & adds them to
+                         your portfolio.
+/                                /                               /
+- portfolio [anything]: shows your portfolio.
+/                                /                               /
+- sell [ticker] [amount]: sells a certain amount of shares 
+                          of your specified ticker & 
+                          removes them from your portfolio 
+                          aswell as adding the balance.
+/                                /                               /
+- bot [commmand] [intensity]: executes a command with a given level
+                              of intensity.
+------------------------------------------------------------------
